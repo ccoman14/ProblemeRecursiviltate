@@ -62,6 +62,7 @@ void displaySolution() {
     printf("\n");
 }
 
+
 void backtrackingAlg(int x, int y, int nr) {
     if(a[x][y]==-1) {
         a[x][y]=nr;

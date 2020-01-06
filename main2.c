@@ -7,6 +7,7 @@ int poz_x = 1, poz_y = 1;
 int dc[9] = {0, 1, 2,2,1,-1,-2,-2,-1};
 int dl[9] = {0,-2,-1,1,2, 2, 1,-1,-2};
 
+
 void Display() {
     for(int i=1;i<=n;i++) {
         for(int j=1;j<=n;j++)
