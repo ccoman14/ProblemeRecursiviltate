@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
+
 int rec(int x, int i) {
     if(i==0)
         return 1;
